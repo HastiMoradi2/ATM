@@ -189,6 +189,5 @@ public class ATM extends JFrame {
         panel1.add(label2);
         panel1.add(lang2);
         frame.setVisible(true);
-
     }
 }
